@@ -1,6 +1,6 @@
 ---
 layout: iframe
-title: My pictures gallery
+title: Flying in South Africa
 item: 1
 auto: true
 loop: true
